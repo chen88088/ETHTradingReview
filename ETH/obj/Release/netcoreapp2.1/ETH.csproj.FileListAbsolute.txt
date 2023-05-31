@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\ETH\ETH\bin\Release\netcoreapp2.1\ETH.deps.json
+C:\Users\user1\source\repos\ETH\ETH\bin\Release\netcoreapp2.1\ETH.runtimeconfig.json
+C:\Users\user1\source\repos\ETH\ETH\bin\Release\netcoreapp2.1\ETH.runtimeconfig.dev.json
+C:\Users\user1\source\repos\ETH\ETH\bin\Release\netcoreapp2.1\ETH.dll
+C:\Users\user1\source\repos\ETH\ETH\bin\Release\netcoreapp2.1\ETH.pdb
+C:\Users\user1\source\repos\ETH\ETH\obj\Release\netcoreapp2.1\ETH.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\ETH\ETH\obj\Release\netcoreapp2.1\ETH.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\ETH\ETH\obj\Release\netcoreapp2.1\ETH.RazorAssemblyInfo.cache
+C:\Users\user1\source\repos\ETH\ETH\obj\Release\netcoreapp2.1\ETH.RazorAssemblyInfo.cs
+C:\Users\user1\source\repos\ETH\ETH\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\user1\source\repos\ETH\ETH\obj\Release\netcoreapp2.1\ETH.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\ETH\ETH\obj\Release\netcoreapp2.1\ETH.AssemblyInfo.cs
+C:\Users\user1\source\repos\ETH\ETH\obj\Release\netcoreapp2.1\ETH.RazorTargetAssemblyInfo.cache
+C:\Users\user1\source\repos\ETH\ETH\obj\Release\netcoreapp2.1\ETH.dll
+C:\Users\user1\source\repos\ETH\ETH\obj\Release\netcoreapp2.1\ETH.pdb
